@@ -1,4 +1,4 @@
-FROM alpine:3.4
+FROM alpine:latest
 
 ENV APP_PKGS="ca-certificates"
 ENV BUILD_PKGS="wget"
